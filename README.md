@@ -1,6 +1,6 @@
 #Bootstrap Exercise
 
-In this project, we have been tasked with creating a website called [Whiskey Drop](http://to-go=here).
+In this project, we have been tasked with creating a website called [Whiskey Drop](https://justin-sawyer.github.io/bootstrap/).
 
 It's a whiskey subscription service. Yum!
 
@@ -9,6 +9,18 @@ and how Bootstrap can help in the creation of Mobile-up websites.
 In other words, Bootstrap is a framework that allows you to create a website using its open-source "ingredients",
 and that the ideal way of creating a website is to start from the smallest screens and work up from there;
 this allows you to put your wireframe to best use, as it forces you to concentrate on the most impertinent things.
+
+Bootstrap features:
+
+Table: .thead-light
+
+Grid system: .col-12; .col-md-6 & .d-md-none; .col-lg-4 & .d-lg-block
+
+    .col-12 = "Full-size" rows for mobile devices
+
+    .col-md-6 & .d-md-none = "Half-size" rows & hidden row for medium devices
+
+    .col-lg-4 & .d-lg-block = "Third-size" rows & redisplay hidden row for large devices
 
 ## Languages, Teechnologies used:
 HTML5
