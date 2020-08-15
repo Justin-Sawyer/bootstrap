@@ -1,39 +1,41 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+#Bootstrap Exercise
 
-Welcome USER_NAME,
+In this project, we have been tasked with creating a website called [Whiskey Drop](http://to-go=here).
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+It's a whiskey subscription service. Yum!
 
-## Gitpod Reminders
+The main task of this project is to illustrate the use of [Bootstrap](https://getbootstrap.com/), 
+and how Bootstrap can help in the creation of Mobile-up websites.
+In other words, Bootstrap is a framework that allows you to create a website using its open-source "ingredients",
+and that the ideal way of creating a website is to start from the smallest screens and work up from there;
+this allows you to put your wireframe to best use, as it forces you to concentrate on the most impertinent things.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Languages, Teechnologies used:
+HTML5
 
-`python3 -m http.server`
+CSS
 
-A blue button should appear to click: *Make Public*,
+Git
 
-Another blue button should appear to click: *Open Browser*.
+GitPod
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+GitHub
 
-A blue button should appear to click: *Make Public*,
+The Bootstrap Framwork
 
-Another blue button should appear to click: *Open Browser*.
+Google Dev Tools
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+## Credits:
+As ever, to the [Code Institute](https://codeinstitute.net) for the tuition.
 
-## Updates Since The Instructional Video
+[This little fellow](https://www.sciencephoto.com/media/1008843/view/colorectal-cancer-cell-sem) for making me see sense.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+The [Bootstrap Foundation](https://getbootstrap.com/) for the framework.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Testing and Deployment:
+This project was built in GitPod and GitHub. It was tested using Google Chrome Dev Tools, 
+the [W3C HTML validator](https://validator.w3.org/) and the [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+You can clone and deploy this by:
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+tbf
