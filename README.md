@@ -42,6 +42,8 @@ As ever, to the [Code Institute](https://codeinstitute.net) for the tuition.
 
 [This little fellow](https://www.sciencephoto.com/media/1008843/view/colorectal-cancer-cell-sem) for making me see sense.
 
+GG for the constant presence and encouragement. You are a pearl!
+
 The [Bootstrap Foundation](https://getbootstrap.com/) for the framework.
 
 ## Testing and Deployment:
